@@ -17,7 +17,7 @@ function Form() {
         id='password'
         placeholder = 'Password'
         name= 'password'/>
-        <CustomButton value='submit'/>
+        <CustomButton value='Submit'/>
     </form> 
   )
 }

@@ -5,8 +5,12 @@ input[type=button]{
     transition: 500ms;
     background-color:#131b32 ;
     margin: 5px;
-
+    cursor: pointer;
+    /* padding: 20px; */
+    width: 200px;
+    height: 40px;
 }
 input:hover{
     background-color: yellow ;
+    color: black;
 }
