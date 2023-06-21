@@ -1,0 +1,11 @@
+input[type=button]{
+    padding: 1px;
+    border: 1px solid black;
+    color: yellow;
+    transition: 500ms;
+    background-color:#131b32 ;
+
+}
+input:hover{
+    background-color: ;
+}
