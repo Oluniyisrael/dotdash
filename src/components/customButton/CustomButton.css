@@ -4,8 +4,9 @@ input[type=button]{
     color: yellow;
     transition: 500ms;
     background-color:#131b32 ;
+    margin: 5px;
 
 }
 input:hover{
-    background-color: ;
+    background-color: yellow ;
 }
